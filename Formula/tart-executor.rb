@@ -1,8 +1,8 @@
 class TartExecutor < Formula
   desc "Tart executor for github"
   homepage "https://github.com/bludesign/tart-executor"
-  url "https://github.com/bludesign/tart-executor/releases/download/v0.12.43/tart-executor.zip"
-  sha256 "8f877b30dc98263a5559e56af595b0ee74ea8d28da3339a4777e9c838c3d5452"
+  url "https://github.com/bludesign/tart-executor/releases/download/v0.12.44/tart-executor.zip"
+  sha256 "24f53cf5edd220776241cd3f0c5c8bec04faed092f1b6b4e3002e93285d773ee"
   license "MIT"
 
   def install
