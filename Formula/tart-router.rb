@@ -1,8 +1,8 @@
 class TartRouter < Formula
   desc "Tart router for github"
   homepage "https://github.com/bludesign/tart-executor"
-  url "https://github.com/bludesign/tart-executor/releases/download/v0.12.47/tart-router.zip"
-  sha256 "cf4ba77e254d8a9b7b1747307e40714b4502a7206888805a89350c8f41edad1e"
+  url "https://github.com/bludesign/tart-executor/releases/download/v0.12.48/tart-router.zip"
+  sha256 "f708d58aeee4010f31c904ddb9af388e3ee8c4a4747b9a170309a40aa40529b8"
   license "MIT"
 
   def install
